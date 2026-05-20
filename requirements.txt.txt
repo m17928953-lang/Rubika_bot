@@ -1,0 +1,2 @@
+rubpy
+opencv-python-headless
